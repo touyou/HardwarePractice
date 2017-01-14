@@ -1,7 +1,0 @@
-v 4
-file . "Collatz.vhdl" "22964eed2d5e0af8d4a3af7a57875675bdf57b35" "20170114034023.975":
-  entity collatz at 1( 0) + 0 on 123;
-  architecture rtl of collatz at 27( 696) + 0 on 124;
-file . "TopCollatz.vhdl" "aa7379407c592ca14def0502c81b7bb49d80ee0a" "20170114034024.077":
-  entity topcollatz at 1( 0) + 0 on 125;
-  architecture sim of topcollatz at 44( 2451) + 0 on 126;

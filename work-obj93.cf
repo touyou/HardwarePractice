@@ -1,7 +1,0 @@
-v 4
-file . "full_adder_tb.vhd" "b5d55f9fa7da39596f3959ebef676c633941806f" "20161220015512.110":
-  entity full_adder_tb at 1( 0) + 0 on 17;
-  architecture behavioral of full_adder_tb at 8( 114) + 0 on 18;
-file . "full_adder.vhd" "e949ad491879483389f672c7cb26b84f3633e598" "20161220015509.084":
-  entity full_adder at 1( 0) + 0 on 15;
-  architecture behavioral of full_adder at 12( 205) + 0 on 16;
